@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ðông Ð?u Ð?t
-name: Ðông Ð?u Ð?t
+name: dong dau dat
 description: 
-  d?p trai l?m Ðông à
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  alainpham
+github_username:  dong dau dat
 
 # jekyll-paginate configuration
 paginate: 10
